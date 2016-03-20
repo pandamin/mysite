@@ -50,6 +50,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.security.SecurityMiddleware',
     "aaa",
     "bbb",
+    "ccc",
 )
 
 ROOT_URLCONF = 'k.urls'
